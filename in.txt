@@ -1,100 +1,1480 @@
-1 	Fullmetal Alchemist (TV) 	8.73 	13380
-2 	Death Note (TV) 	8.87 	12819
-3 	Cowboy Bebop (TV) 	8.94 	12160
-4 	Spirited Away (movie) 	8.97 	10474
-5 	Princess Mononoke (movie) 	8.93 	9772
-6 	(The) Melancholy of Haruhi Suzumiya (TV) 	8.57 	10149
-7 	Elfen Lied (TV) 	8.31 	10412
-8 	Neon Genesis Evangelion (TV) 	8.32 	10146
-9 	Code Geass: Lelouch of the Rebellion (TV) 	8.86 	9100
-10 	Bleach (TV) 	7.95 	9140
-11 	FLCL (OAV) 	8.18 	8667
-12 	Code Geass: Lelouch of the Rebellion R2 (TV) 	9.02 	7799
-13 	Naruto (TV) 	7.52 	9248
-14 	Samurai Champloo (TV) 	8.53 	7905
-15 	Trigun (TV) 	8.37 	7956
-16 	Gurren Lagann (TV) 	8.74 	6923
-17 	Rurouni Kenshin: Trust & Betrayal (OAV) 	8.92 	6632
-18 	Full Metal Panic! (TV) 	8.13 	7198
-19 	Howl's Moving Castle (movie) 	8.62 	6783
-20 	Ouran High School Host Club (TV) 	8.53 	6689
-21 	Clannad (TV) 	8.60 	6186
-22 	Fullmetal Alchemist: Brotherhood (TV) 	9.11 	5687
-23 	Fruits Basket (TV) 	8.14 	6347
-24 	Chobits (TV) 	7.64 	6638
-25 	Cowboy Bebop: The Movie 	8.45 	5992
-26 	Full Metal Panic? Fumoffu (TV) 	8.40 	6018
-27 	Akira (movie) 	7.94 	6353
-28 	5 Centimeters Per Second (movie) 	8.71 	5722
-29 	Rurouni Kenshin (TV) 	8.36 	5937
-30 	(The) Girl Who Leapt Through Time (movie) 	8.68 	5497
-31 	Ghost in the Shell (movie) 	8.22 	5748
-32 	Final Fantasy VII: Advent Children (movie) 	8.01 	5873
-33 	Hellsing (TV) 	7.65 	6135
-34 	Azumanga Daioh (TV) 	8.38 	5544
-35 	Clannad After Story (TV) 	8.95 	5152
-36 	Fullmetal Alchemist: The Movie - Conqueror of Shamballa 	8.00 	5652
-37 	Ghost in the Shell: Stand Alone Complex (TV) 	8.50 	5164
-38 	Mushi-Shi (TV) 	8.80 	4970
-39 	Darker than Black (TV) 	8.31 	5248
-40 	Fate/stay night (TV) 	7.52 	5792
-41 	Nausicaä of the Valley of the Wind (movie) 	8.68 	5010
-42 	Claymore (TV) 	8.18 	5265
-43 	Inuyasha (TV) 	7.29 	5823
-44 	Full Metal Panic! The Second Raid (TV) 	8.43 	4968
-45 	Steins;Gate (TV) 	9.15 	4562
-46 	Toradora! (TV) 	8.49 	4885
-47 	Blood+ (TV) 	7.96 	5192
-48 	Castle in the Sky (movie) 	8.53 	4844
-49 	Black Lagoon (TV) 	8.30 	4967
-50 	Angel Beats! (TV) 	8.57 	4745
-51 	Neon Genesis Evangelion: The End of Evangelion (movie) 	8.33 	4855
-52 	My Neighbor Totoro (movie) 	8.66 	4627
-53 	Dragon Ball Z (TV) 	7.16 	5563
-54 	Grave of the Fireflies (movie) 	8.71 	4557
-55 	Eureka Seven (TV) 	8.31 	4711
-56 	Air (TV) 	7.95 	4872
-57 	Love Hina (TV) 	7.41 	5205
-58 	Berserk (TV) 	8.45 	4483
-59 	Last Exile (TV) 	8.33 	4501
-60 	When They Cry - Higurashi (TV) 	8.10 	4574
-61 	GTO: Great Teacher Onizuka (TV) 	8.67 	4194
-62 	Baccano! (TV) 	8.68 	4162
-63 	Wolf's Rain (TV) 	7.95 	4468
-64 	Shakugan no Shana (TV) 	8.02 	4358
-65 	Welcome to the NHK (TV) 	8.51 	4101
-66 	Serial Experiments Lain (TV) 	7.89 	4394
-67 	Haibane Renmei (TV) 	8.48 	4070
-68 	Sword Art Online (TV) 	7.36 	4642
-69 	Kiki's Delivery Service (movie) 	8.28 	4033
-70 	Naruto Shippūden (TV) 	7.89 	4217
-71 	(The) Vision of Escaflowne (TV) 	8.08 	4116
-72 	Samurai 7 (TV) 	8.17 	3999
-73 	One Piece (TV) 	8.16 	3981
-74 	Attack on Titan (TV) 	8.33 	3890
-75 	School Rumble (TV) 	8.25 	3865
-76 	Soul Eater (TV) 	8.14 	3915
-77 	Ergo Proxy (TV) 	8.00 	3971
-78 	Lucky Star (TV) 	8.01 	3953
-79 	Spice and Wolf (TV) 	8.39 	3776
-80 	Black Lagoon: The Second Barrage (TV) 	8.45 	3732
-81 	Eden of the East (TV) 	8.39 	3749
-82 	Kanon (TV 2/2006) 	8.65 	3629
-83 	Gungrave (TV) 	8.35 	3721
-84 	Dragon Ball (TV) 	7.27 	4203
-85 	Monster (TV) 	8.77 	3436
-86 	High School of the Dead (TV) 	7.55 	3956
-87 	Puella Magi Madoka Magica (TV) 	8.62 	3461
-88 	Chrono Crusade (TV) 	7.77 	3827
-89 	Summer Wars (movie) 	8.76 	3363
-90 	Bakemonogatari (TV) 	8.35 	3472
-91 	Gunslinger Girl (TV) 	7.95 	3629
-92 	Lunar Legend Tsukihime (TV) 	8.05 	3514
-93 	R.O.D -The TV- 	8.35 	3380
-94 	Read or Die (OAV) 	8.05 	3503
-95 	(The) Familiar of Zero (TV) 	7.78 	3623
-96 	Mobile Suit Gundam Seed (TV) 	8.09 	3450
-97 	Yu Yu Hakusho: Ghost Files (TV) 	8.10 	3429
-98 	anohana: The Flower We Saw That Day (TV) 	8.81 	3139
-99 	My-HiME (TV) 	8.06 	3414
-100 	Durarara!! (TV) 	8.07 	2019
+ Cowboy Bebop
+1. Cowboy Bebop (1998–1999)
+
+TV-MA | 24 min | Animation, Action, Adventure
+8.9
+Rate
+
+The futuristic misadventures and tragedies of an easygoing bounty hunter and his partners.
+
+Stars: Kôichi Yamadera, Unshô Ishizuka, Megumi Hayashibara, Steve Blum
+
+Votes: 69,116
+
+Simply the greatest for an outstanding cast of characters, triumphant soundtrack, spectacular action, and it can be watched either dubbed or subbed, both versions are sublime.
+Despite initially being episodic in nature underlying storyline rears its head and proves to thoroughly engaging, you've just got to give this anime the opening five episodes, don't make a judgement call after just one episode. See it out and you will be greatly rewarded.
+Steins;Gate
+2. Steins;Gate (2011–2015)
+
+TV-14 | 24 min | Animation, Comedy, Drama
+8.7
+Rate
+
+After discovering time travel, a university student and his colleagues must use their knowledge of it to stop an evil organization and their diabolical plans.
+
+Stars: Mamoru Miyano, Asami Imai, Kana Hanazawa, Ashly Burch
+
+Votes: 28,923
+
+One of the greatest all round anime ever. With comedy, romance, tragedy, sci-fi, and even a little action blended perfectly together. It featured an original premise and a satisfying conclusion.
+The character of Mad Scientist will become one of your favourites.
+Since it involves time travel the first episode is seriously confusing, however by the end of episode three you'll be fully clued in, essential viewing, don't drop it! The best time travel anime ever made.
+Samurai X: Trust and Betrayal
+3. Samurai X: Trust and Betrayal (1999– )
+
+Not Rated | 118 min | Animation, Action, Adventure
+8.6
+Rate
+
+In the era of Japan's Meiji Restoration, an assassin regains his humanity.
+
+Stars: Mayo Suzukaze, Junko Iwao, Nozomu Sasaki, Masami Suzuki
+
+Votes: 10,930
+
+The 4 episode OVA prequel to the original Kenshin anime. This anime involves masterful storytelling, Kenshin the main character is given a rich backstory, the anime plays out always rising, never falters, zero filler, a rich and rewarding experience. The greatest samurai anime ever made.
+Despite only being four episodes long it feels very complete and those who want to see more of Kenshin (which you will) can check out the sequel (original anime) series.
+Maison Ikkoku
+4. Maison Ikkoku (1986–1988)
+
+25 min | Animation, Comedy, Romance
+8.3
+Rate
+
+The misadventures of a young student and his landlady's romance.
+
+Stars: Kazuyo Aoki, Shigeru Chiba, Issei Futamata, Ron Halder
+
+Votes: 744
+
+Maison Ikkoku is the finest romance anime ever made, in terms of story structure, character development and emotional depth. If you look over this because it's of older animation then you really don't know what an incredible experience you've missed out on. Yes at 96 episodes it is long for the genre. However the story spans several years and this allows for real character and relationship progression.
+It is one of the funniest and most charming anime I've ever seen. It managed to turn a big time action and science fiction fan like me into a believer that there is great romance series out there. This remains the finest example of a believable romance story in anime. Do not miss it.
+P.S. This anime continually gets better as it progresses, the final 15 episodes of this anime are greater than any other romantic/comedy ever made. It delivers the most spectacular ending that you could possibly want in a rom/com. See this one out, enjoy the ride and I guarantee this will become a firm favourite of yours.
+Baccano!
+5. Baccano! (2007–2008)
+
+TV-MA | 25 min | Animation, Action, Adventure
+8.3
+Rate
+
+A crazy fantasy caper involving alchemists, immortals, gangsters, outlaws and an elixir of immortality, spread over several decades.
+
+Stars: Michael C. Pizzuto, J. Michael Tatum, Caitlin Glass, Akemi Kanda
+
+Votes: 8,661
+
+This anime initially can be confusing because of the huge, overwhelming cast of characters but persevere! It’s a series that’s hard to describe without spoiling it. If you like hardcore action, suspense, and fantasy. You will love it. Issac and Miria are my favourite anime duo ever! However Baccano! does feature some demented characters and plenty of graphic violence. If you like Elfen Lied you will adore Baccano! 
+P.S. The team that made this later went onto make Durarara!! which was just a modern set, watered down, rehash of Baccano! Basically if you watched Durarara!! and haven't seen this you should look in a mirror and slap yourself :P (This anime requires a minimum trial period of five episodes).
+Mushi-Shi
+6. Mushi-Shi (2005–2006)
+
+TV-14 | 25 min | Animation, Drama, Fantasy
+8.4
+Rate
+
+They are neither plants nor animals. They differ from other forms of life such as the micro-organisms and the fungi. Instead they resemble the primeval body of life and are generally known ... See full summary »
+
+Stars: Yûto Nakano, Travis Willingham, Kôjun Itô, Jennifer Seman
+
+Votes: 9,882
+
+Ask people for the most beautiful anime ever made and the vast majority will reply, Mushi-Shi. It's unique in the fact that the entire anime centers almost entirely on one character. The scenery is beautiful, however this is an episodic anime, if you need an anime that continues on from week to week this may not be for you.
+Without spoiling anything about the story I'll just say this is an anime to be savoured, perhaps one episode each night. The most magical, relaxing anime I've ever seen. Simply wonderful.
+The Rose of Versailles
+7. The Rose of Versailles (1979–1980)
+
+TV-PG | 24 min | Animation, Drama, Romance
+8.4
+Rate
+
+The story of Lady Oscar, a female military commander who served during the time of the French Revolution.
+
+Stars: Reiko Tajima, Tarô Shigaki, Hisashi Katsuda, Nachi Nozawa
+
+Votes: 1,333
+
+This is a fascinating telling of Queen Marie Antoinette's rise and fall as ruler of France.
+This anime involved murder, suicide, betrayal, cross dressing and even a rape attempt. It was utterly groundbreaking and still is, the cover art is totally unfitting with the mature and serious nature of this anime.
+It's a high drama/romance/history anime.... it actually centers on a character called Lady Oscar, I almost dropped it during the early episodes but didn't and I was greatly rewarded, it has one of the best anime endings ever. It does take awhile to really take off and grip you however it's well worth the wait. It's an anime for those interested in a brilliant plot and exceptional character development.
+Berserk
+8. Berserk (1997–1998)
+
+Not Rated | 22 min | Animation, Action, Adventure
+8.5
+Rate
+
+Guts is a skilled swordsman who joins forces with a mercenary group named 'The Band of the Hawk', lead by the charismatic Griffith, and fights with them as they battle their way into the royal court.
+
+Stars: Nobutoshi Canna, Marc Diraison, Carrie Keranen, Kevin T. Collins
+
+Votes: 22,028
+
+This series has perhaps the greatest character development of any anime ever made, you become attached to each character who each has well fleshed out personalities comprised of individual qualities, flaws, and ideals. If you hold merit for engaging plot, are exhilarated by action scenes with large doses of violence and don't abhor nudity this is definitely the anime series for you. 
+It's one of the best anime I've ever seen, the only thing that holds it back as an anime series is one tedious flaw, you'll have to watch it, to find out for yourself.
+Now and Then, Here and There
+9. Now and Then, Here and There (1999–2000)
+
+TV-14 | Animation, Action, Drama
+8.1
+Rate
+
+A Japanese boy named Shu tries to save a strange girl, Lala Ru, from kidnappers and is transported to an alternate Earth on the brink of being swallowed by the sun. There he meets an ... See full summary »
+
+Stars: Crispin Freeman, Dan Green, Ted Lewis, Dan Olk
+
+Votes: 1,377
+
+Wow, just wow. It dropped my jaw the first time I watched it, as a guy I normally like war movies, shows, anime however they usually glamorise war. This anime is the exact opposite, I did really love it but because it had a magnificent, strong anti-war message.
+I won't say much as I don't want to spoil anything but this is a very short anime and certainly worthwhile viewing.
+Legend of the Galactic Heroes
+10. Legend of the Galactic Heroes (1988– )
+
+25 min | Animation, Drama, Sci-Fi
+9.1
+Rate
+
+Various people, especially two rising commanders, cope with a massive continual space conflict between two interstellar nations.
+
+Stars: Shô Hayami, Tesshô Genda, Jôji Nakata, Ryûsei Nakao
+
+Votes: 1,385
+
+This anime takes some 25 of its total 110 episodes to really grasp the viewer, however those with patience are treated to arguably the greatest anime ever made.
+I seriously don't want to spoil anything about this masterpiece of an anime, I'll just say this is one if not thee best space opera anime ever made.
+Are you tired of stagnant and hollow characters? Are you tired of pointless fanservice? Are you tired of watching anime with no content or appeal for the intellectual viewer? If the answer to these questions is yes, you must watch this anime. You won't be disappointed.
+Usagi Drop
+11. Usagi Drop (2011– )
+
+TV-PG | Animation, Comedy, Drama
+8.4
+Rate
+
+A man adopts his six-year-old aunt and raises her as his own kid.
+
+Stars: Hiroshi Tsuchida, Ayu Matsuura, Atsuko Mine, Noa Sakai
+
+Votes: 1,877
+
+Just an incredibly sweet and touching story of a man trying to raise a young child single-handedly. This anime was such a breath of fresh air to the medium, completely out of the norm and perhaps all the more enjoyable for that fact.
+It features a slightly unique art style that a casual anime viewer will not be accustomed to but by the second episode you will have adjusted. It's a very short anime but exceptionally good.
+Rurouni Kenshin: Wandering Samurai
+12. Rurouni Kenshin: Wandering Samurai (1996–1999)
+
+TV-14 | 24 min | Animation, Action, Adventure
+8.5
+Rate
+
+The adventures of a young wandering swordsman who stumbles upon a struggling martial arts school in Meiji era Japan.
+
+Stars: Mayo Suzukaze, Richard Cansino, Dean Wein, Dorothy Elias-Fahn
+
+Votes: 14,665
+
+Everything that needs to be said about this anime has already been said and is known to pretty much every anime viewer. If you've never seen an anime then Rurouni Kenshin is a good place to start.
+It's a quality all rounder, it has action, comedy, romance... there's enough there to keep everybody entertained.
+It has a solid story and is well executed, the cast of characters are extremely likable. Perhaps the greatest strength of this series is that it doesn't have any glaring flaws.
+Guardian of the Sacred Spirit
+13. Guardian of the Sacred Spirit (2007– )
+
+TV-PG | Animation, Adventure, Fantasy
+8.4
+Rate
+
+The Second Empress hires a spear-wielding woman to save her son from the Mikado (emperor) who believes the young prince is possessed by a water demon foretold to bring a terrible drought upon the land should he live.
+
+Stars: Mabuki Andô, Naoto Adachi, Kôji Tsujitani, Hirofumi Nojima
+
+Votes: 2,059
+
+Comparisons with 12 Kokuki (The Twelve Kingdoms, which features later on this list) are inevitable when it comes to this anime. Perhaps it's a little simplistic but Guardian of the Sacred Spirit remains a fantastic adventure/fantasy anime. 
+Did you like Rurouni Kenshin? Did you like Claymore? Did you like any of the Studio Ghibli films? If you answered yes to any of these go watch this anime now. It's a well done character driven anime with some highly impressive action scenes.
+Planetes
+14. Planetes (2003–2004)
+
+TV-14 | Animation, Drama, Sci-Fi
+8.3
+Rate
+
+In the year 2075, mankind has reached a point where journeying between Earth, the moon and the space stations is part of daily life. However, the progression of technology in space has also... See full summary »
+
+Stars: Joe Cappelletti, Nao Nagasawa, Beau Billingslea, Kazunari Tanaka
+
+Votes: 2,729
+
+Do you need an anime with heart pounding action in every episode? If so Planetes is not for you. Do you like anime that aren't much more than sentimental drivel, where the show takes cheap emotional shots by having characters in anguish constantly, those anime that underestimate the intellect of the viewer and try to induce cheap tears. If so Planetes is not for you. 
+If however you like anime with deep and reflective messages on life, if you like anime completely out of the norm, if you like well fleshed out characters, a solid story and some flawless voice acting... then this is the anime for you.
+P.S. (The only thing holding this back from being a perfect 10/10 is the slight issues with animation and the underwhelming music).
+Nonetheless certainly for experienced and adult anime viewers this is an essential watch.
+GTO
+15. GTO (1999– )
+
+TV-MA | 24 min | Animation, Comedy, Drama
+8.6
+Rate
+
+About Eikichi Onizuka, a 22-year-old ex-gangster member and a virgin. He has one ambition that no one ever expected from him. His solely life purpose is to become the greatest high school teacher ever.
+
+Stars: Steve Blum, Tom Fahn, Jun'ichi Suwabe, Wataru Takagi
+
+Votes: 3,932
+
+Certainly not for younger viewers. GTO is simply hilarious, silly comedy. It's aimed at older males but if you're in good form and don't take it too seriously you will wind up having a great time. It's got some great moral lessons and anyone who enjoys ridiculous antics and highly eccentric characters should give this a go, this anime does exactly what it says on the tin... it entertains. ”
+The Irresponsible Captain Tylor
+16. The Irresponsible Captain Tylor (1993– )
+
+TV-14 | Animation, Comedy, Family
+7.8
+Rate
+
+The adventures of a space navy captain who is either an incredibly lucky idiot, or an unorthodox genius in tactics.
+
+Stars: Dan Green, Maria Kawamura, Yuri Amano, J. David Brimmer
+
+Votes: 319
+
+This anime better known as Irresponsible Captain Tylor is the funniest Sci-Fi anime ever created. Lovable rogue Tylor is nothing short of a hilarious goof who stumbles through life with what must be said, a lot of incredible luck. If you're a fan of sudden girlfriend anime then look no further. 
+Just watch the first episode of this, I guarantee you will be in stitches and instantly hooked. It's a series that once you start it, you have to finish it. It's 26 episodes of sheer brilliance.
+Lupin the 3rd
+17. Lupin the 3rd (1971–1972)
+
+TV-PG | 23 min | Animation, Action, Adventure
+8
+Rate
+
+The adventures of the master thief Lupin III and his cohorts as they dive into various escapades, all the while in pursuit by the tenacious Inspector Zenigata.
+
+Stars: Yasuo Yamada, Kiyoshi Kobayashi, Yukiko Nikaido, Gorô Naya
+
+Votes: 1,461
+
+This is one of the most fun, charming and endearing series to ever grace anime. The character of Lupin is one of the most magnificent and memorable in the medium, he's a terrific hero despite the fact he's a thief. Lupin is the source that inspired such characters as Spike from Cowboy Bebop.
+Lupin is the epitomy of cool that we all strive for. Good crime anime is hard to come by and this is the best as we watch the remarkable exploits of Lupin and his gang. I must also mention that greats of anime Hayao Miyazaki and Isao Takahata both worked on this series. It's not just a significant series in anime history, it's also incredibly entertaining.
+Death Note
+18. Death Note (2006–2007)
+
+TV-14 | 24 min | Animation, Crime, Drama
+9
+Rate
+
+An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.
+
+Stars: Mamoru Miyano, Brad Swaile, Vincent Tong, Ryô Naitô
+
+Votes: 164,762
+
+I finally settled on where to place this anime, most of you will be wondering why so low? I can't go into elaborate details as I don't want to spoil anything for people who haven't watched this yet.
+So what are Death Note's good points? It's often gripping and thrilling. However when most people remember Death Note they tend to judge it on its early stages, ignoring all the flaws throughout. Lets just say after a certain character left this series and was replaced with two mediocre characters, the show went greatly downhill. Well that's my view anyway.
+However I can't deny the popularity and success of this series, the first 2/3's in my opinion are by far its best. It's a quality suspense/thriller and in my opinion worthwhile viewing. If you haven't seen it you must be living under a rock, check it out and see what the fuss is about.
+Monster
+19. Monster (2004–2010)
+
+TV-14 | 24 min | Animation, Crime, Drama
+8.7
+Rate
+
+A brilliant neurosurgeon living in Germany finds his life in utter turmoil after getting involved with a psychopath that was once a former patient.
+
+Stars: Hidenobu Kiuchi, Liam O'Brien, Mamiko Noto, Karen Strassman
+
+Votes: 14,514
+
+No question Monster deserves to be on this list. A real question would be, why hasn't Monster placed higher? Perhaps because this truly is a love or hate anime. While I really enjoyed it, I know a lot of people whose opinion I respect that offered well reasoned arguments for not particularly holding fondness for this anime.
+I would say this is arguably the greatest thriller anime ever made, it's so tense and suspenseful in scenes. It has a brilliant story, shame that it's a slow burner and that many people drop it before it gets good. Putting some filler eps aside and the fact it takes 20+ episodes to really draw you in, don't drop this! It's definitely a worthwhile watch.
+Elfen Lied
+20. Elfen Lied (2004)
+
+TV-MA | 24 min | Animation, Action, Comedy
+8.1
+Rate
+
+Two university students come across a seemingly harmless girl named Lucy, unaware that she's actually a mutant serial killer with a split personality.
+
+Stars: Sanae Kobayashi, Chihiro Suzuki, Mamiko Noto, Adam Conlon
+
+Votes: 25,122
+
+Elfen Lied = Extreme violence, high amounts of graphic gore, and a hot mutated chick that strolls around naked most of the time.
+That may be a bit simplistic but it's not too far from the truth. Elfen Lied has become huge in the medium of anime due to its obvious effort to shock and entertain, for the most part it succeeded in doing that.
+The first episode is often widely mentioned as the most violent single episode of any anime in the medium. Be sure to check this out, it's certainly not for kids though.
+Hunter x Hunter
+21. Hunter x Hunter (1999–2001)
+
+23 min | Animation, Action, Adventure
+8.7
+Rate
+
+The history of Gon Freecs, a boy who left home alone to become a Hunter. In the hard test, Gon meets Leorio, Kurapika and Killua.
+
+Stars: Hozumi Gôda, Yuki Kaida, Junko Takeuchi, Annika Odegard
+
+Votes: 4,011
+
+Due to a very recent remake it's almost pointless me discussing the original Hunter x Hunter without starting a war about which one is better, new or old. 
+The reasons I have gone with the original series are because I prefer the animation style in this one... I can't explain it but the animation on the remake looked too computer generated for my taste, (some nice colours but I found the characters to look featureless and undistinguished). I also believe overall the original has a better soundtrack. That's just my opinion. Either version of Hunter x Hunter is acceptable.
+Anyway if you enjoy action/adventure, anime, then this one is right up your street. Recommended to fans of shows like Inuyasha, Rurouni Kenshin, and Yu Yu Hakusho.
+Neon Genesis Evangelion
+22. Neon Genesis Evangelion (1995–1996)
+
+TV-14 | 24 min | Animation, Action, Drama
+8.6
+Rate
+
+A teenage boy finds himself recruited as a member of an elite team of pilots by his father.
+
+Stars: Megumi Ogata, Megumi Hayashibara, Kotono Mitsuishi, Spike Spencer
+
+Votes: 34,196
+
+The anime that arguably cemented the mediums legitimacy and sky rocketed its popularity in America and most of the western world. Neon Genesis Evagelion while starting out rather simplistic quickly develops into a roller coaster ride of epic and profound proportions.
+Words can't describe this anime adequately, I will simply say I can see why NGA is held in such high esteem and for the most part I think it deserves the iconic status it holds.
+City Hunter
+23. City Hunter (1987–1991)
+
+24 min | Animation, Action, Comedy
+7.9
+Rate
+
+Ryô Saeba is a private eye known as the "City Hunter" who likes to be hired by beautiful girls. One day, his associate, Hideyuki Makimura, is murdered. Ryô has to take care of Hideyuki's ... See full summary »
+
+Stars: Akira Kamiya, Yôko Asagami, Martin Blacker, Tesshô Genda
+
+Votes: 870
+
+A incredible cast of characters, great art for its era, a strong soundtrack but most importantly delivers brilliant comedy and roaring action, that's City Hunter in a nut shell. 
+This is an absolute masterpiece of anime and its hidden gem status makes it a special anime to all of those who have watched it, it's one of those series you almost want to keep to yourself.
+Ghost in the Shell: Stand Alone Complex
+24. Ghost in the Shell: Stand Alone Complex (2002–2005)
+
+TV-MA | 24 min | Animation, Action, Crime
+8.5
+Rate
+
+The futuristic adventures of a female cyborg counter intelligence agent and her support team.
+
+Stars: Shirô Saitô, Mary Elizabeth McGlynn, William Knight, Richard Epcar
+
+Votes: 15,260
+
+This series came about due to the success of the 1995 movie Ghost In The Shell. The anime tv series deviates in feel to the original movie, it doesn't quite have the same dark tone, however it's a great watch in its own right. 
+This anime has exceptional production values, a strong soundtrack but its greatest appeal is its premise. The philosophical questions it raises, ethical debates, realistic action and plausible futuristic setting make this a must see in my opinion.
+Certainly not for everyone, an intelligent anime for those who appreciate that sort of show.
+P.S. The Wachoswski brothers who created The Matrix movies have largely credited the 1995 Ghost In The Shell movie as their inspiration.
+Code Geass: Lelouch of the Rebellion
+25. Code Geass: Lelouch of the Rebellion (2006–2012)
+
+TV-14 | 24 min | Animation, Action, Adventure
+8.7
+Rate
+
+After being given a mysterious power to control others, an outcast prince becomes the masked leader of the rebellion against an all powerful empire
+
+Stars: Johnny Yong Bosch, Jun Fukuyama, Yuri Lowenthal, Takahiro Sakurai
+
+Votes: 36,846
+
+Code Geass = quality character development, sufficient story progression, adequate animation, some interesting questions surrounding morality and some entertaining action scenes.
+CG is often compared to Death Note for its "intellectual intrigue" however I'm not so sure how strong a case can be made for that. Comparisons between Light from DN and Lelouch from CG are justified though.
+Tomorrow's Joe
+26. Tomorrow's Joe (1970–1971)
+
+30 min | Animation, Action, Drama
+8.5
+Rate
+
+Tange is a frustrated fighter with poorly life, he loses his eyesight and also his disciple.Passing by a town one day he meets Joe Yabuki, a brawler,lier and deceived person which he saw in... See full summary »
+
+Stars: Teruhiko Aoi, Jûkei Fujioka, Shûsei Nakamura, Masako Ebisu
+
+Votes: 150
+
+Ashita no Joe is the perfect example of how when a simple story is told well, it can achieve greatness. On the surface it might not sound that special, a teenage orphan called Joe who is living in the slums, is convinced to take up boxing by an alcoholic ex-boxing coach. It's how it's handled that makes it special, due to the masterful touch of legendary director Osamu Dezaki, Ashita no Joe is a fantastic example of brilliant story telling and memorable characters. It's an older series and the animation might be a burden for a lot of people but it's well worth making an exception for this one and watching both seasons of it through. It's one of those anime that when you finish it, you're left with a feeling of loss, a feeling of devastation that there's no more episodes.
+Black Lagoon
+27. Black Lagoon (2006)
+
+TV-MA | 25 min | Animation, Action, Adventure
+8.1
+Rate
+
+A Japanese businessman, captured by modern-day pirates, is written off and left for dead by his company. Tired of the corporate life, he opts to stick with the mercenaries that kidnapped him, becoming part of their gang.
+
+Stars: Megumi Toyoguchi, Daisuke Namikawa, Maryke Hendrikse, Brad Swaile
+
+Votes: 8,972
+
+Simply the greatest straight up action anime ever made! There is no tricks, no fantasy elements, just great action.
+Revy the main character is the most badass anime chick to ever live. She owns all the so called badass chicks of anime and most of the guys for that matter :P
+Revy = A dual pistol wielding, cigar smoking, foul mouthed, whiskey drinking, cold hearted killer.
+Darker Than Black: Gemini of the Meteor
+28. Darker Than Black: Gemini of the Meteor (2007–2010)
+
+TV-MA | 24 min | Animation, Action, Drama
+7.8
+Rate
+
+In Tokyo, an impenetrable field known as "Hell's Gate" appeared ten years ago. At the same time, psychics who wield paranormal powers at the cost of their conscience also emerged. Hei is ... See full summary »
+
+Stars: Hidenobu Kiuchi, Matthew Leonhart, Christopher Sabat, Jason Liebrecht
+
+Votes: 9,710
+
+How can an anime with so many flaws make this list? There's a few anime on this list that would fall under that question, DTB is certainly one of them. Why you ask?
+It's one of those anime that just dives right in and is very confusing at the beginning. Not to mention that it takes time to become emotionally invested in the characters.
+However when DTB gets good, it's very good. A well directed anime with, superpowers, suspense, mystery and an interesting anti-hero character. Definitely for fans of Death Note and Code Geass.
+Yu Yu Hakusho: Ghost Files
+29. Yu Yu Hakusho: Ghost Files (1992–1995)
+
+TV-Y7 | 24 min | Animation, Action, Comedy
+8.4
+Rate
+
+One day, 14-year-old Yusuke Urameshi suddenly finds himself dead, having died pushing a child out of the way of oncoming traffic. Since he has such a bad personality, even the Spirit World ... See full summary »
+
+Stars: Nozomu Sasaki, Justin Cook, Christopher Sabat, Cynthia Cranz
+
+Votes: 9,463
+
+A solid all rounder anime. There's comedy, action, mystery and fantasy. It's created by the same guy who wrote Hunter x Hunter, if you need further reason as to know why you should watch this...... it beat Dragon Ball Z in ratings during its tv run.
+I consider it a much better anime than DBZ and if you liked that you should definitely check out this one. Recommended highly to fans of Hunter X Hunter and Inuyasha.
+Ranma ½
+30. Ranma ½ (1989)
+
+30 min | Animation, Action, Comedy
+7.9
+Rate
+
+A girl is involuntarily engaged to a boy who turns female when hit with cold water and male when hit with hot.
+
+Stars: Kappei Yamaguchi, Megumi Hayashibara, Noriko Hidaka, Sarah Strange
+
+Votes: 3,945
+
+One of the four Rumiko Takahashi anime on this list (the other three being Maison Ikkoku, Inuyasha and Urusei Yatsura). Ranma 1/2 is probably the most fun of all of them. A ridiculous and silly concept means that this anime provides a lot of side hurting laughs during its run.
+A fun cast of characters, some very memorable moments and it's arguably the most amusing anime on this list. This anime is a sure thing if you're looking for a pleasant watch.
+Samurai Champloo
+31. Samurai Champloo (2004–2005)
+
+TV-MA | 24 min | Animation, Action, Adventure
+8.6
+Rate
+
+Fuu, a waitress who works in a teahouse, rescues two master swordsmen, Mugen and Jin, from their execution to help her find the "samurai who smells of sunflowers."
+
+Stars: Kazuya Nakai, Ginpei Sato, Ayako Kawasumi, Steve Blum
+
+Votes: 31,855
+
+Samaurai Champloo is an epic action anime with lots of sword action. The characters in this are amazing. Mugen and Jin are beyond badass and Fuu is exceptionally cute. It’s beautifully animated and well written. It’s by the same director who made Cowboy Bebop. Enough said, it’s incredible.
+Gungrave
+32. Gungrave (2003–2004)
+
+TV-14 | Animation, Action, Crime
+8
+Rate
+
+Gungrave follows the story of best friends Brandon Heat and Harry MacDowell as they join and rise in the ranks of Big Daddy's Millenion crime syndicate. The story begins in the future ... See full summary »
+
+Stars: Kirk Thornton, Beau Billingslea, Steve Blum, Lex Lang
+
+Votes: 4,080
+
+Gungrave = A fantasy version of Scarface. That pretty much captures its essence. Gungrave is made by the same creator who made Trigun... and in my opinion this anime is the better of the two. 
+Trigun is hugely flawed as an anime and its only real redeemer was some great comedy and a brilliant character in Vash, perhaps where Gungrave surpasses its predecessor is in the brilliance of its ending.
+While both have weak episodes I felt Trigun had more and I was bitterly disappointed with its ending.
+Recommended to those who liked Trigun, this is an action packed, quality anime. Just don't drop it on a whim.
+Tengen toppa gurren lagann
+33. Tengen toppa gurren lagann (2007)
+
+TV-14 | 24 min | Animation, Action, Adventure
+8.3
+Rate
+
+Two friends, Simon and Kamina, become the symbols of rebellion against the powerful Spiral King, who forced mankind into subterranean villages.
+
+Stars: Yuri Lowenthal, Kana Asumi, Steve Blum, Johnny Yong Bosch
+
+Votes: 11,077
+
+TTGL damn near impossible to describe. Off the scale action, sheer absurdity. This is an anime where characters dream and reach to do the impossible, off the chart levels of epicness, realism holds no merit here. This sums it up....
+"I knew a man who once said death smiles at us all, all a man can do is smile back". 
+*pats self on back for managing to work in a relevant Gladiator quote that can be applied to this anime* XD
+Claymore
+34. Claymore (2007)
+
+TV-MA | 24 min | Animation, Action, Adventure
+8.1
+Rate
+
+In a world rife with deadly creatures called "youma", a young silver eyed woman, Clare, works on behalf of an organization that trains female youma halfbreeds into warriors with the ability... See full summary »
+
+Stars: Todd Haberkorn, Houko Kuwashima, Stephanie Young, Motoki Takagi
+
+Votes: 10,446
+
+Perhaps I'm a little sexist in saying this but Kureimoa aka Claymore is more of a guys anime. It's an action/adventure/fantasy anime. Perhaps an effort was made to bring in a larger female audience by casting a female lead in Clare....... however this anime is hugely comparable to Berserk in terms of feel and hack and slash action. Berserk was probably the tad darker of the two. Either way highly recommended to fans of the action/fantasy genre.
+Fullmetal Alchemist
+35. Fullmetal Alchemist (2003–2004)
+
+TV-PG | 24 min | Animation, Action, Adventure
+8.6
+Rate
+
+When a failed alchemical ritual leaves brothers Edward and Alphonse Elric with severely damaged bodies, they begin searching for the one thing that can save them; the fabled philosopher's stone.
+
+Stars: Vic Mignogna, Aaron Dismuke, Romi Pak, Rie Kugimiya
+
+Votes: 51,259
+
+Oh come on..... you need some info on this? Really?
+Honestly this is one of the most well known anime ever made, anybody seriously interested in anime should be checking this one out.
+P.S. There's a remake called Fullmetal Alchemist Brotherhood, I've gone with this one for reasons that would take eons of time to explain.
+Hellsing Ultimate
+36. Hellsing Ultimate (2006–2012)
+
+Not Rated | 50 min | Animation, Action, Comedy
+8.3
+Rate
+
+The vampire Alucard, his master Sir Integra Fairbrook Wingates Hellsing, and his newly sired ward Seras Victoria, try to protect England from a war-crazed SS-Major who seeks to start an eternal war with his vampire army.
+
+Stars: Katie Gray, Crispin Freeman, Victoria Harwood, Ralph Lister
+
+Votes: 15,981
+
+Remember Hellsing? Remember enjoying it? Remember thinking Alucard was a great character? Do you like action, violence and vampires?
+If yes then you must watch this. I know people who watched the original anime and have not seen this may be a little apprehensive but guys seriously this is better, much better.
+Kimagure Orange Road
+37. Kimagure Orange Road (1987– )
+
+25 min | Animation, Comedy, Drama
+7.8
+Rate
+
+Kyousuke Kasuga is a completely normal Japanese high school student, with two very big problems. The first is his complete and utter inability to choose between two girls, the bright, ... See full summary »
+
+Stars: Tôru Furuya, Eriko Hara, Hiromi Tsuru, Chieko Honda
+
+Votes: 630
+
+It's 48 episodes of true brilliance, I'm usually not a big fan of romantic comedies but as with everything nothing is absolute and there is always rare exceptions. KOR is one of these rare exceptions. It has silly characters, hilarious situations, love triangles, misunderstandings and a great 80's feeling which makes it hugely comparable to Maison Ikkoku. Recommended to those who are daunted with tackling the 96 episodes of Maison Ikkoku, Kimagure Orange Road is similar but not quite as good. If you enjoy this anime you really should watch the aforementioned masterpiece.
+Future Diary
+38. Future Diary (2011–2013)
+
+TV-MA | 25 min | Animation, Action, Drama
+7.8
+Rate
+
+A young man competes with people around the world for a chance to become the succesor of God, with a diary that is able to tell the future.
+
+Stars: Emily Neves, Jamie Marchi, Josh Grelle, Todd Haberkorn
+
+Votes: 10,378
+
+Better known as Mirai Nikki, this anime is flawed but for many of us falls under the title of guilty pleasure. 
+Built under the guise of a menacing femme fatale, many are sure to fall for Yuno due to her warped sense of love.
+It's got action, romance, comedy, ridiculous characters, some sketchy plot twists and some shaky time travel.
+Recommended to fans of Death Note and Elfen Lied.
+Eureka Seven
+39. Eureka Seven (2005–2006)
+
+TV-14 | 25 min | Animation, Adventure, Drama
+8
+Rate
+
+14-year-old Renton joins the rebel GekkoState ship, co-pilots the TypeZero with the mysterious Eureka, and unknowingly becomes part of a grand scheme.
+
+Stars: Yûko Sanpei, Keiji Fujiwara, Kaori Nazuka, Johnny Yong Bosch
+
+Votes: 2,498
+
+Eureka 7 = one of the better mecha anime. A satisfying blend of drama, sci-fi and romance. Certainly one those anime that falls under the genre of "must see", it's a solid series and you won't regret watching this.
+Katanagatari
+40. Katanagatari (2010– )
+
+TV-PG | 50 min | Animation, Action, Adventure
+8
+Rate
+
+Kyotoryuu, the legendary sword fighting stance is passed down from father to son. Shichika and his sister Nanami are the sole remaining descendants of theYasuri household and Shichika alone... See full summary »
+
+Stars: Yoshimasa Hosoya, Yukari Tamura, Masako Ikeda, Haruka Tomatsu
+
+Votes: 872
+
+I applaud this anime for its originality and innovation. The art style is visually appealing, the script writing thoroughly engaging. Fantastic voice acting, a tried and tested narrative involving a samurai style.
+It's by the same author who wrote Bakemonogatari and while completely different, in my opinion is even more recommendable. Don't miss this modern under the radar masterpiece.
+P.S. This anime is 12 episodes long and each episode lasts for roughly 50 minutes.
+Princess Tutu
+41. Princess Tutu (2002–2003)
+
+TV-14 | 30 min | Comedy, Adventure, Animation
+8.2
+Rate
+
+A duck turned girl with magical powers must help save a prince from an unfinished fairy tale.
+
+Stars: Takahiro Sakurai, Jessica Boone, Jay Hickman, Nana Mizuki
+
+Votes: 753
+
+On paper I should have hated Princess Tutu, the name, the cuteness, the fact that it's a magical girl anime and the huge amount of everything pink. I mean this is as far as it gets from Cowboy Bebop and yet somehow I enjoyed Princess Tutu. It has a tremendous plot with huge drama and unexpected plot twists. This anime shattered all preconceptions I had going into it, don't be put off by the silly comedy in the initial episodes. It's magnificently unique, has a wonderful plot and is easily the greatest magical girl anime ever made. Even guys can thoroughly enjoy this.
+Tenchi Muyô!
+42. Tenchi Muyô! (1992– )
+
+TV-PG | 30 min | Animation, Adventure, Comedy
+7.8
+Rate
+
+Every man needs a good woman. Tenchi Masaki has six.
+
+Stars: Fernanda Fernandes, Takeshi Aono, Petrea Burchard, Debi Derryberry
+
+Votes: 1,722
+
+The greatest harem anime ever made by a distance. Just fun..... so much fun. I don't think I've smiled more per episode to any other anime than this one.
+It doesn't have much of a story but the characters are so memorable and the comedy hits the mark more often than not. There's a bundle of Tenchi Muyo anime out there and not all of it is good.... however this original OVA series is quite the enjoyable experience.
+Spice and Wolf
+43. Spice and Wolf (2008–2009)
+
+TV-14 | Animation, Adventure, Fantasy
+8
+Rate
+
+Kraft Lawrence goes from town to town to make profits as a travelling merchant, with the help of a wolf deity by the name of Holo.
+
+Stars: Jun Fukuyama, Ami Koshimizu, Brina Palencia, J. Michael Tatum
+
+Votes: 3,017
+
+This is an extremely dialogue heavy anime. While certainly not for everyone because it's a story about merchant trading in medieval times, it's often a lesson on economics and for those interested in something different, this anime is worth watching.
+The interactions between the characters are arguably what makes this series special, it's an adventure/fantasy/romance anime, while favourable just be prepared for a lot of dialogue.
+Super Dimensional Fortress Macross
+44. Super Dimensional Fortress Macross (1982–1983)
+
+TV-PG | 25 min | Animation, Action, Music
+8.6
+Rate
+
+An alien ship crash lands on Earth and its secrets lead to a desperate war against an alien foe sent to retrieve the ship.
+
+Stars: Arihiro Hase, Mari Iijima, Vic Mignogna, Monica Rial
+
+Votes: 1,476
+
+Don't let that cover art fool you, Macross was a very well animated series for its time. It's the most famous mecha series ever made, the one that pretty much defined the genre and in my opinion still does.
+In my honest opinion it's every bit the equal of Mobile Suit Gundam, I enjoyed both but I've placed Macross higher because I feel it will appeal to a wider audience. I highly recommend this anime.
+P.S. Be sure to watch this version and not the god awful Robotech version, honestly the dubbing and changes they made to the story was horrendous. Watch the original 1982 subtitled version.
+Bakemonogatari
+45. Bakemonogatari (2009– )
+
+TV-14 | 25 min | Animation, Action, Comedy
+8
+Rate
+
+Third-year high school student Koyomi Araragi is human again. Cured of his vampirism, he seeks to help other supernaturals with their problems. Koyomi becomes involved in their lives, revealing secrets in people he once knew.
+
+Stars: Hiroshi Kamiya, Eri Kitamura, Yuka Iguchi, Chiwa Saitô
+
+Votes: 2,783
+
+This is a mystery/romance/supernatural anime that involves vampires. It is genuinely a masterpiece of its genre, the only reason it's not higher is that it appeals mostly to a niche group.
+It's a very unique anime with some very peculiar characters, while it may take some time to adjust, you will inevitably become hooked. This anime is guaranteed to entertain if given a fair shake.
+School Rumble
+46. School Rumble (2004–2010)
+
+TV-PG | 25 min | Animation, Comedy, Romance
+7.9
+Rate
+
+A young high schooler is in love with an oblivious classmate; a delinquent classmate is in love with her. Both struggle to confess their feelings and their antics lead to crazy situations.
+
+Stars: Luci Christian, Ami Koshimizu, Taliesin Jaffe, Hiroki Konishi
+
+Votes: 1,651
+
+Ask the typical anime fan of today which comedy series is the best? The vast majority will reply School Rumble. I don't disagree with that opinion but personally anime like GTO: Great Teacher Onizuka, Ranma 1/2 and City Hunter appealed more to me.
+That said School Rumble is a great comedy but is stereotypically set in a school, with stereotypical characters. The reason School Rumble excels is that the comedy is generally very good. I consider School Rumble to be perhaps the greatest outright modern comedy, better than Toradora! The only reason that it's relatively low on the list was because season 2 wasn't as great as the first.
+Hajime no ippo
+47. Hajime no ippo (2000–2002)
+
+TV-PG | 20 min | Animation, Action, Comedy
+8.7
+Rate
+
+Makunouchi Ippo is an ordinary high school student in Japan. Since he spends most of his time away from school helping his mother run the family business, he doesn't get to enjoy his ... See full summary »
+
+Stars: Richard Epcar, D.C. Douglas, Peter Doyle, Beau Billingslea
+
+Votes: 3,756
+
+Do you like boxing? If yes watch this.
+Do you like the Rocky movies? If yes then watch this.
+Do you like brilliant blending of action and comedy? If yes then watch this.
+My only complaint is that it's a slow starter, it's a real shame that many people drop it without giving it a fair chance. It really is their loss, they can continue watching stuff like School Days.
+Revolutionary Girl Utena
+48. Revolutionary Girl Utena (1997– )
+
+TV-14 | 24 min | Animation, Comedy, Drama
+8.2
+Rate
+
+A tomboyish schoolgirl finds herself forced into repeated duels for another girl who has a role in a world revolution.
+
+Stars: Leah Applebaum, Roxanne Beck, Sharon Becker, James Carter Cathcart
+
+Votes: 948
+
+Revolutionary Girl Utena= If you were to take it on face value RGU doesn't seem like anything that special. However it quickly becomes obvious that Utena is a once off and that it's far deeper than meets the eye. It explores themes including homosexuality, I certainly didn't expect this from what I was lead to believe was a childrens anime. To tell the truth this anime caught me off guard a number of times, particularly in later episodes. It was nothing like I expected it to be, this was actually a plus. It's a fantasy, action, drama but it's a strange one and very bold. Whether you love or hate it, this is certainly memorable.
+Natsume yûjinchô
+49. Natsume yûjinchô (2008– )
+
+Animation, Comedy, Drama
+8.1
+Rate
+
+When Natsume Takashi inherits a book that belonged to his late grandmother he realizes the book is filled with the names of spirits she defeated and bound to her will. He then decides to return their names so they can be free once again.
+
+Stars: Hiroshi Kamiya, Kazuhiko Inoue, Miki Itô, Ryohei Kimura
+
+Votes: 1,107
+
+An imitator of Mushishi. That may sound a little harsh but it's uncanny how close the basic plot and structure is to Mushishi. It's an episodic anime that deals with a male lead that can see entities that remain invisible to most people. The big difference is that Mushishi is slighly more artistic where we the viewer are asked to comtemplate various themes. Both are very good, if you enjoy one the odds are highly probable that you'll also like the other. This anime is highly recommended to fans of Mushishi.
+Inuyasha
+50. Inuyasha (2000–2004)
+
+TV-14 | 24 min | Animation, Action, Adventure
+7.9
+Rate
+
+A teenage girl periodically travels back in time to feudal Japan to help a young half demon recover the shards of a jewel of great power.
+
+Stars: Kappei Yamaguchi, Richard Ian Cox, Darren Pleavin, Satsuki Yukino
+
+Votes: 12,467
+
+This is another Rumiko Takahashi anime series. Funnily enough it's her most well known anime, perhaps because it's the most recent. 
+Rumiko combined the elements that made brilliant anime like Maison Ikkoku (romance) and Ranma 1/2 (comedy) in Inuyasha. For the most part it worked. This is certainly a good watch despite being a little on the long side.
+P.S. Be sure to watch the continuation series to this, the 26 episode anime called Inuyasha: The Final Act (You sort of have to, as the original anime was left without an ending, "The Final Act" finally gave closure to the series).
+The Twelve Kingdoms
+51. The Twelve Kingdoms (2002– )
+
+Animation, Adventure, Drama
+8.2
+Rate
+
+High school student Youko Nakajima is approached by a strange man who claims he's been searching for her and that she is the rightful ruler of his kingdom.
+
+Stars: Mari Devon, Kate Higgins, Houko Kuwashima, Aya Hisakawa
+
+Votes: 1,568
+
+Great story, great characters, a brilliant adventure. This is an anime many have tried to imitate but most have failed. It's an action/adventure/fantasy anime that few have equaled and even fewer have surpassed.
+Highly recommended to fans of the fantasy genre, if you're watching any ongoing fantasy anime or have enjoyed some recently then please consider watching this. 
+The 12 Kingdoms is an immensely enjoyable journey.
+Kaiba
+52. Kaiba (2008– )
+
+TV-MA | Animation, Adventure, Drama
+8.3
+Rate
+
+In a futuristic dystopian world where memories are literally stored, bought and sold and rich have all the privileges, a young amnesiac is trying to find out who he is.
+
+Stars: Houko Kuwashima, Mamiko Noto, Romi Pak
+
+Votes: 998
+
+This anime puts forth fascinating philosophical questions. It's a terrific series for its plot and well fleshed out sci-fi world. It's a unique love story set in a world where it's possible to store memories in databanks and transfer those memories to new bodies. This has made death irrelevant. However Kaiba uses an animation style that will put a lot of people off, for those of you who bear through that you'll be subject to a truly unforgettable anime. Highly recommended to experienced anime fans looking for something unique.
+Escaflowne
+53. Escaflowne (1996– )
+
+TV-Y7 | 30 min | Animation, Action, Adventure
+7.9
+Rate
+
+Hitomi is a girl with psychic abilities who gets transported to the magical world of Gaea. She and her friends find themselves under attack from the evil Zaibach empire, and the Guymelf ... See full summary »
+
+Stars: Kirby Morrow, Kelly Sheridan, Brian Drummond, Jocelyne Loewen
+
+Votes: 3,382
+
+Escaflowne= This is a really well rounded anime, it has fantasy, mecha, romance and adventure. What's more it manages to do all these aspects well. The characters are well fleshed out overall and each gets enough screen time. My only complaints are with the slow early episodes and some slight issues with character design. This is a really solid anime and I wouldn't hesitate in recommending it to anyone.
+Koi kaze
+54. Koi kaze (2004)
+
+Not Rated | 25 min | Animation, Drama, Romance
+7.6
+Rate
+
+Koshiro and Nanoka fall deeply in love, then discover they are the children of their divorced estranged parents... making them brother and sister. How will their relationship turn out?
+
+Stars: Kenta Miyake, Yuki Nakamura, Satomi Akesaka, Shizuka Itô
+
+Votes: 299
+
+This anime deals with the taboo subject of incest. Don't let the appalling theme put you off, this isn't low brow entertainment, this anime tackles with frightening realism and maturity a subject that most only speak about in hushed voices. This anime will force you to look at your morals and make you question what is love. This anime pulls no punches and I'm putting my neck on the line with its inclusion on this list. Recommended to those old enough to understand its message.
+When They Cry
+55. When They Cry (2006– )
+
+TV-MA | 24 min | Animation, Horror, Mystery
+8.1
+Rate
+
+The story of a group of young friends and the mysterious events that occur in the rural village of Hinamizawa.
+
+Stars: John Snyder, Sôichirô Hoshi, Mai Nakahara, Satsuki Yukino
+
+Votes: 3,687
+
+Many people consider it the greatest horror of all time, it's certainly among the better examples in recent years. This show will make many tremble and a lot of you will be watching scenes through your hands. It was the mystery element that interested me, I had to know what was happening and where it was going. You'll have to watch the second season also to get the full picture, that's a total of 50 episodes. It certainly had something going for it to keep me interested for that length of time. Recommended to fans of Monster and those who enjoy suspense/horror.
+Ergo Proxy
+56. Ergo Proxy (2006)
+
+TV-14 | 25 min | Animation, Action, Adventure
+8
+Rate
+
+In a post-apocalyptic future humans live in peace with androids in a domed city. However, a strange series of murders has intruded into bored inspector Re-l Mayer's life.
+
+Stars: Kôji Yusa, Akiko Yajima, Rachel Hirschfeld, Liam O'Brien
+
+Votes: 10,097
+
+Ergo Proxy= Some say it's among the most fascinating and intelligent masterpieces of anime, others believe it's among the most pretentious and conceited anime ever made. The truth about Ergo Proxy lies somewhere in-between. It's got good art work, an interesting soundtrack and a great female lead character. It does sadly put emphasis on style over substance too often but it's definitely something worth checking out, especially if you're looking for something a little different.
+Durarara!!
+57. Durarara!! (2010)
+
+TV-14 | Animation, Action, Crime
+8
+Rate
+
+Tired of his mundane life, Mikado Ryugamine decides to move to Ikebukuro, a district in Tokyo, when a friend invites him. With everything from invisible gangs to rumored beings, Ikebukuro is full of connected mysteries where people's pasts intertwine with the present.
+
+Stars: Brian Beacock, Johnny Yong Bosch, Doug Erholtz, Crispin Freeman
+
+Votes: 4,994
+
+Look it's Baccano! oh wait, no it's the imitator of Baccano! The similarities between the two are plenty, it shouldn't come as a surprise as both anime were made largely be the same team. They took the elements that made Baccano! a success (mystery killer, large cast of characters, extreme violence) and rehashed them for this. If you love one the odds are you'll also love the other. The only huge difference is length and setting. While it's predecessor was original and had a great ending, the same can't be said for this work. However it is a quality anime, recommended to mystery/action fans.
+Mobile Suit Gundam
+58. Mobile Suit Gundam (1979–1980)
+
+30 min | Animation, Action, Drama
+8.1
+Rate
+
+In the war between the Earth Federation and Zeon, a young and inexperienced crew find themselves on a new spaceship. Their best hope of making it through the conflict is the Gundam, a giant humanoid robot, and its gifted teenage pilot.
+
+Stars: Tôru Furuya, Alaina Burnett, Chris Kalhoon, Michael Kopsa
+
+Votes: 1,454
+
+Mobile Suit Gundam= Where to begin on this series? It's arguably the most successful anime franchise ever, it has spawned countless prequels, sequels, ova's, movies etc. One thing that has become apparent is that the Japanese sure do love giant fighting robots :P Overall this will be a great anime for mecha fanatics and it's certainly worthwhile viewing to watch what kick started the whole Gundam phenonium.
+FLCL
+59. FLCL (2000–2001)
+
+TV-14 | 151 min | Animation, Comedy, Drama
+8.3
+Rate
+
+A 12-year old boy named Naota one day meets a strange woman, riding a Vespa and wielding a big guitar. As soon as she appears, mysterious things start happening.
+
+Stars: Jun Mizuki, Mayumi Shintani, Izumi Kasagi, Suzuki Matsuo
+
+Votes: 12,731
+
+It’s probably the most unique, unorthodox anime I’ve ever watched. The first time I watched FLCL I thought “what the hell am I watching” and that’s something that will run through the minds of most first time viewers. It’s a series that is near impossible to describe, hilarious randomness probably best sums it up. For those who do watch it through it inevitably becomes one of their favourite series, my only complaint is I wish there had been more episodes.
+Future Boy Conan
+60. Future Boy Conan (1978– )
+
+24 min | Animation, Adventure, Comedy
+8.7
+Rate
+
+After the world is nearly destroyed by a war, a young boy and his friends must fight to save the world from those who seek to conquer what is left of civilization.
+
+Stars: Noriko Ohara, Masatô Ibu, Mieko Nobusawa, Kazuyo Aoki
+
+Votes: 2,870
+
+Future Boy Conan= A masterfully directed 26 episode anime by the great Hayao Miyazaki. It features all the whimsy and wonder that's present in his films, in my opinion this series surpasses most of his other work. The art is also of a very high standard in comparison to other works from this era. It's a great, wholesome adventure. It appeals to the kid in all of us, everybody can enjoy this one.
+The Count of Monte Cristo
+61. The Count of Monte Cristo (2004– )
+
+TV-14 | 24 min | Animation, Drama, Sci-Fi
+8
+Rate
+
+Trying to escape his uneventful life, Albert, the son of a renowned general from Paris, makes a journey with his friend Franz. During his travels, he meets an immensely wealthy nobleman ... See full summary »
+
+Stars: Beau Billingslea, Johnny Yong Bosch, Jôji Nakata, Liam O'Brien
+
+Votes: 1,912
+
+Gankutsuou= This is definitely a brilliant anime, partly due to the fact that it's loosely based on the novel (The Count of Monte Cristo). The word loosely is key, do not expect if you have read the book that this anime stays true to the source material. Anybody who goes into this expecting an anime version of the novel will be bitterly disappointed. It should be noted that this anime has an outlandish, visually stunning art style. The art style may put some off but for those who have seen a lot of anime with generic animation, the attempt to be different will be much appreciated. The suspense, betrayal and thriller aspects of this anime are outstanding. It will make you want to read the novel, which even the purists will agree is a good thing.
+Welcome to the NHK!
+62. Welcome to the NHK! (2006– )
+
+TV-MA | Animation, Comedy, Drama
+8.4
+Rate
+
+This surreal dramedy follows Satou Tatsuhiro as he attempts to escape the evil machinations of the NHK.
+
+Stars: Yutaka Koizumi, Yui Makino, Michael C. Pizzuto, Wataru Hatano
+
+Votes: 4,382
+
+Welcome To The NHK= A story about a recluse. How could an anime about a withdrawn loner who barricades himself in his apartment be so interesting? While the first half of the series makes great use of humour, the second half is extremely touching and poignant. It deals with a wide variety of mature problems in society from parental violence to suicide. Don't underestimate this anime by the comedic moments early on, it's one of the most profound and memorable anime I've ever seen.
+Nobody's Boy Remi
+63. Nobody's Boy Remi (1977–1978)
+
+24 min | Animation, Drama, Family
+7.9
+Rate
+
+A compelling story in which orphaned Remi gets hired out to a traveling street entertainer Vitalis when her foster parents fall on hard times.
+
+Star: Masako Sugaya
+
+Votes: 750
+
+Ie Naki Ko= Remi is a young boy that's sold to a traveling entertainer, he now begins his life as a slave. You know immediately as you sit down to watch this it's going to be full of hardship and sadness. This anime is brilliantly directed by the great Osamu Dezaki, he allows the classic novel this is based on to be fully realised as an anime adaptation. It's a terrific sombre journey, recommend to fans of The Rose of Versailles and Romeo no Aoi Sora.
+The Slayers
+64. The Slayers (1995– )
+
+TV-PG | 25 min | Animation, Action, Adventure
+7.6
+Rate
+
+The adventures of a teenage female mage and her companions as they quest for gold and glory (especially gold).
+
+Stars: Megumi Hayashibara, Yasunori Matsumoto, Lisa Ortiz, Eric Stuart
+
+Votes: 1,749
+
+Slayers= A perfect harmony of fantasy, action and comedy. Slayers is hugely enjoyable. It features loads of memorable characters, I suspect Lina will be most peoples favourite. Despite the fact this anime is from the 90's it has aged really well. One of the most fun and zany anime I've seen. What's great about this is that the second season Slayers Next doesn't disappoint, I actually think it's far better. Highly recommended to comedy/fantasy fans.
+Gambling Apocalypse Kaiji
+65. Gambling Apocalypse Kaiji (2007–2011)
+
+TV-14 | 23 min | Animation, Action, Thriller
+8.3
+Rate
+
+Kaiji Itou is a good-for-nothing loiterer who spends his days drinking beer and stealing hubcaps-that is, until he ends up being tricked by his former co-worker. Unable to suddenly repay ... See full summary »
+
+Stars: Masato Hagiwara, Hakuryû, Naoya Uchida, Hideo Ishikawa
+
+Votes: 1,315
+
+This anime has a refreshingly unique and compelling story. Without spoiling too much it's about a character that gets into debt and has to try and gamble his way out. Maybe I'm not selling it enough but I really can't say a whole lot or I'll ruin the story, it does have a very interesting concept. The worst thing about this anime is the art style, casual viewers may not be able to cope with this. For those who manage with the art there is a great story. Highly recommended to fans of Akagi and One Outs.
+Kimi ni todoke
+66. Kimi ni todoke (2009– )
+
+TV-PG | 30 min | Animation, Comedy, Drama
+7.9
+Rate
+
+Sawako Kuronuma is misunderstood due to her resemblance to the ghost girl from The Ring. But one day the nicest boy in the class, Kazehaya befriends her and everything changed after that and also everyone perspective of Sawako but there's going to be struggle await for her up in the future.
+
+Stars: Mamiko Noto, Daisuke Namikawa, Yûko Sanpei, Miyuki Sawashiro
+
+Votes: 1,926
+
+It's slightly different than your regular romance story but in the end it remains a generic shy girl and hot guy fall in love tale. This anime uses the "misunderstandings" effect a lot, particularly in the second season (a method Maison Ikkoku had been using over 25 years earlier), that's not to say Kimi ni Todoke doesn't do it well I'm just pointing out it has been done. Highly recommended to fans of Maison Ikkoku and vice versa. It's a must for fans of slow paced, misunderstandings romance anime.
+Serial Experiments Lain
+67. Serial Experiments Lain (1998– )
+
+TV-14 | 316 min | Animation, Horror, Mystery
+8.2
+Rate
+
+Strange events begin to occur as a withdrawn girl named Lain becomes obsessed with interconnected virtual realm of "The Wired".
+
+Stars: Kaori Shimizu, Bridget Hoffman, Dan Lorge, Randy McPherson
+
+Votes: 8,723
+
+Serial Experiments Lain= Let me start off with the positive aspects of the series. The music for its opening theme is nothing short of haunting, it washes over you like a lucid dream. The concept of this anime is brilliant as it aims to raise philosophical questions about our existence.
+We are our mind if anything, our bodies hold us back in some respects. If could imprint yourself, your mind into the internet “The Wired” would you do it? So that’s the positive aspects.
+Where Serial Experiments Lain fails sometimes is in the execution of the premise. It’s a little convoluted and as the series progresses the message deteriorates to a small degree. The concept and philosophical questions this anime tries to raise in essence the blending of man and technology, are much better realised in an anime like Ghost In The Shell: Stand Alone Complex. However this is still a decent and interesting series definitely worth checking out.
+Ouran High School Host Club
+68. Ouran High School Host Club (2006)
+
+TV-14 | 24 min | Animation, Comedy, Romance
+8.3
+Rate
+
+At the ultra prestigious Ouran High School, Haruhi Fujioka looks for a quiet place to read and walks into an unused music room, and accidentally stumbles across the notorious Ouran High ... See full summary »
+
+Stars: Maaya Sakamoto, Mamoru Miyano, Masaya Matsukaze, Ken'ichi Suzumura
+
+Votes: 6,463
+
+A favourite of female anime viewers, Ouran High School Host Club is a silly rom/com full to the brim with pretty boys and pink frills. It's mostly an episodic comedy so there's not much in the way of a deep plot, however many people are sure to enjoy the characters and humour. Recommended to fans of Fruits Basket and Toradora!
+Les Miserables: Shoujo Cosette
+69. Les Miserables: Shoujo Cosette (2007– )
+
+24 min | Animation, Drama, Family
+7.9
+Rate
+
+The classic novel by Victor Hugo returns to the world of Japanese anime in Nippon Animation's 52-episode adaptation "Les Misérables: Shoujo Cosette". The plot shifts its focus to include ... See full summary »
+
+Stars: Emiko Hagiwara, Mami Horikoshi, Anri Katsu, Yumiko Kobayashi
+
+Votes: 85
+
+Les Miserables: Shoujo Cosette= Imagine some Japanese guys got their hands on the story of Les Miserables, then imagine they decided to take that story which definitely is not for children and they decided to adapt it to make it kid friendly. That's exactly what this is, surprisingly though it's quiet good. The story is kept as close to the source as possible considering the age of the intended audience. The most fascinating thing about this adaptation is that the story revolves more around Cosette than Jean Valjean. Recommended highly to fans of Les Miserables who aren't complete purists and are open to adaptations.
+Michiko and Hatchin
+70. Michiko and Hatchin (2008– )
+
+TV-MA | 23 min | Animation, Action, Adventure
+7.7
+Rate
+
+Michiko is a free-willed "sexy diva" who escaped from prison, while Hatchin is a run away girl fleeing from her strict catholic foster family. The two join forces and set off on an unpredictable road trip seeking their own freedom.
+
+Stars: Terri Doty, Toru Kusano, Monica Rial, Jad Saxton
+
+Votes: 632
+
+This anime is surprisingly good, it's definitely one of my guilty pleasure anime. Let me say this right off the bat, Michiko is one of the hottest, most kickass anime chicks ever. The story is set in Brazil and tells the tale of a sexy criminal named Michiko who escapes from prison and rescues an abused girl called Hatchin. This may not be the most thought provoking plot but it was a really solid series. It may have dragged a little in the middle but this series gives off almost a Cowboy Bebop vibe that its real strengths are the characters. It has fantastic production values, some entertaining action scenes and a good ending. Highly recommended to fans of Cowboy Bebop, Black Lagoon and Phantom: Requiem For The Phantom.
+Romeo's Blue Skies
+71. Romeo's Blue Skies (1995– )
+
+24 min | Drama, Animation
+8.6
+Rate
+
+the story about the boy Romeo, who was living with his family in a small village in Switzerland and then decide to lease himself to his need for money after the crowman burn their farm for ... See full summary »
+
+Stars: Ryûnosuke Ôbayashi, Kayoko Fujii, Terue Nunami
+
+Votes: 533
+
+Romeo no Aoi Sora= Another drama anime that many might find themselves sobbing at, a story about a brave boy who sells himself as a chimney sweep to pay for a doctor for his father. It's a slow paced triumph of drama, friendship, heartache, hardships and character. Few anime have heart like this. Recommended to fans of Clannad and Ie Naki Ko.
+Mononoke
+72. Mononoke (2007)
+
+TV-MA | 25 min | Animation, Fantasy, Horror
+8.3
+Rate
+
+A mysterious man called the Medicine Seller travels along feudal Japan, uncovering and slaying evil spirits called "Mononoke".
+
+Stars: Michael C. Pizzuto, Takahiro Sakurai
+
+Votes: 1,064
+
+Mononoke= The greatest outright horror anime of all time, it's undeniable. This puts all the pretenders among the anime horror genre firmly in their mediocre place. It's fantastically stylish and capable of instilling genuine fear into the viewer. Yes it features a hugely unique art style that casual anime viewers may not like but this isn't a drawback, this series is for those who can appreciate it, at only 12 episodes long you've got no excuses. It really is a spectacular work of art.
+Phantom: Requiem for the Phantom
+73. Phantom: Requiem for the Phantom (2009– )
+
+TV-MA | 25 min | Animation, Action, Crime
+7.8
+Rate
+
+The story of two brainwashed assassins, Ein and Zwei, who struggle to regain their memories as they work for the Inferno crime syndicate.
+
+Stars: Miyu Irino, Newton Pittman, Ayahi Takagaki, Lindsay Seidel
+
+Votes: 1,192
+
+A solid anime, the opening episodes are very interesting. It's about a man who has the life of an assassin thrust upon him. It's very much action oriented but the story is well above average. I'd recommend this anime for big action fans or someone who wants an anime about assassins.
+Rainbow: Nishakubou no shichinin
+74. Rainbow: Nishakubou no shichinin (2010– )
+
+TV-MA | 30 min | Animation, Crime, Drama
+8.3
+Rate
+
+Set in 1955, the anime follows the story of seven teenagers locked in a reformatory, waiting for a ray of light in a daily hell of suffering and humiliation, focusing especially on how they faced the life once regained freedom.
+
+Stars: Shun Oguri, Romi Pak, Takaya Kuroda, Tatsuya Hasome
+
+Votes: 1,040
+
+A group of deliquents tossed into a grim disciplinary school in post WW2 Japan, well this anime certainly has a different setting. That will be welcomed by people sick of the typical school set or future set anime. Rainbow has good visuals, sound and an interesting premise, so why isn't this higher? Well for an anime that should be all about the characters, there's a surprising lack of character development. This anime is bleak, depressing, action heavy and at times uplifting. It should have been a character driven masterpiece but in the end Rainbow in effort to appeal to the widest demographic wound up just being a good series. Recommended to fans of friendship stories.
+The Mysterious Cities of Gold
+75. The Mysterious Cities of Gold (1982–1983)
+
+TV-Y7 | 28 min | Animation, Adventure, Family
+8.8
+Rate
+
+A trio of kids must search throughout 16th Century South America for personal answers linked to the legendary El Dorado.
+
+Stars: Janice Chaikelson, Adrian Knight, Michael Rudder, Terrence Labrosse
+
+Votes: 2,990
+
+This is unquestionably one of the greatest adventure anime ever made, each episode is utterly fantastic, it really has stood the test of time. Anybody who enjoys adventure stories should really check this one out, I'd compare it to Studio Ghibli films in the respect that it can be wholly enjoyed by both children and adults. I'd recommend watching this in Japanese but it's impossible to find subtitled, you'll have little alternative but to watch the English dubs for this one.
+Goodbye, Mr. Despair
+76. Goodbye, Mr. Despair (2007– )
+
+Animation, Comedy, Drama
+7.7
+Rate
+
+A pessimistic high school teacher must somehow manage a class of eccentric students.
+
+Stars: Hiroshi Kamiya, Ai Nonaka, Marina Inoue, Asami Sanada
+
+Votes: 702
+
+If you like dark humour you're in for a treat. It's an unorthodox comedy about a teacher often referred to as Mr. Despair, he's called that because he's often left suicidal by the harsh and gruesome reality of life. He teaches a class full of strange and unique students. This anime has great production values and I'd really recommend it if you want a different type of comedy full of quirky characters.
+Anne of Green Gables
+77. Anne of Green Gables (1979– )
+
+24 min | Animation, Drama, Family
+7.8
+Rate
+
+Based on the books by Lucy Maud Montgomery, this 50 episode series tells the story of Anne Shirley, a young orphan living in 19th century Canada.
+
+Stars: Eiko Yamada, Fumie Kitahara, Michio Hazama, Ryûji Saikachi
+
+Votes: 1,050
+
+Akage no Anne= It's a wonderful anime, it's just a simple tale of a young orphan girl growing up and dealing with everyday issues. There isn't some great villain that needs to be stopped, no maniacal schoolgirls wielding knives or vampires behind every closed door, no Akage no Anne is a tale of utmost simplicity and all the better for that fact. It's a joy and wholesome story of a girl making friends, dealing with school and studies etc.
+It's a masterfully told story, it's among the finest slow paced, slice of life anime. If the slice of life genre isn't your thing maybe give this a miss. Recommended to fans of Nobody's Boy: Remi and Romeo no Aoi Sora.
+Space Pirate Captain Harlock
+78. Space Pirate Captain Harlock (1978–1979)
+
+24 min | Animation, Action, Adventure
+7.9
+Rate
+
+In 2977, mankind has space colonies, machines do all the work and everyone just wants to have fun. When deadly plant-based aliens that look like women attack the Earth in order to colonize it, only one rogue captain can stop them.
+
+Stars: Makio Inoue, Akira Kamiya, Ken'ichi Ogata, Chiyoko Kawashima
+
+Votes: 784
+
+Space Pirate Captain Harlock= Classic anime at its finest. The main draw for me here is the characters, Harlock is a once off, he's magnificent and treated with a fascinating seriousness. Harlock is a character that many have imitated and reinvented in modern anime, if you wish to see the original, your search is over. This anime had a big influence on the medium, many since have taken cues from Harlock. The closest thing in anime today to this is One Piece, it evokes a similar feeling. Recommended highly to fans of old school anime.
+Touch
+79. Touch (1985–1986)
+
+25 min | Animation, Comedy, Sport
+7.9
+Rate
+
+The bond between three kids; the talented Kazuya, his lazy do-nothing brother Tatsuya and their childhood friend, the adoring Minami. Baseball, brotherhood, love, and high school challenges and strengthens their connection to one another.
+
+Stars: Yôsuke Akimoto, Shigeru Chiba, Rica Fukami, Tesshô Genda
+
+Votes: 243
+
+Touch= A really charming and understated series. Don't be put off by the fact that it involves baseball. The sport doesn't define this series, it's far more of a slice of life/romance than a sports anime. It has brilliant development, fantastic characterisation and a well measured/executed approach. It's perfectly paced. It's well worth watching if you're patient and can appreciate an older series.
+Chobits
+80. Chobits (2002– )
+
+TV-14 | 30 min | Animation, Comedy, Drama
+7.4
+Rate
+
+Hideki finds the discarded and malfunctioning Persocom Chi, a personal computer that looks like a girl. While trying to fix and care for Chi, Hideki discovers that she might be a Chobits, a robot of urban legend that has free will.
+
+Stars: Rie Tanaka, Crispin Freeman, Tomokazu Sugita, Karen Strassman
+
+Votes: 3,693
+
+It's one of those anime with humanoid computers where the boundaries of what's ethical becomes blurred. It has comedy, romance and fanservice. Personally I think the anime could have been better if the themes were explored more seriously and a little less focus was on the perverted comedy. It's still a good anime but it could have been great, hence it's placing.
+Treasure Island
+81. Treasure Island (1978– )
+
+24 min | Animation, Action, Adventure
+8.4
+Rate
+
+Jim Hawkins, a 13-year-old boy in the 18 centre runs with his mother Admiral Benbu hotel since his father died but events begin when the sailor drunkard decide to stay in a hotel.
+
+Stars: Joe Thomas, Bobby Thong, Shôzô Îzuka, Eimei Esumi
+
+Votes: 639
+
+Takarajima= If you're a fan of Treasure Island you're in for a treat. This anime adaptation to the classic novel captures all the adventure and whimsy of the source material. Who could overlook an anime teaming with pirates that include the notorious Long John Silver. The animation is a little dated but everything else about this from the plot, characters and music are top notch.
+Urusei yatsura
+82. Urusei yatsura (1981–1986)
+
+Not Rated | 23 min | Animation, Comedy, Romance
+7.5
+Rate
+
+The series begins when aliens from the planet Oniboshi invade Earth. They agree to leave only if Earth's champion can defeat the Oni champion in a game of tag within a ten-day time limit. ... See full summary »
+
+Stars: Fumi Hirano, Toshio Furukawa, Saeko Shimazu, Akira Kamiya
+
+Votes: 701
+
+Urusei Yatsura= Rumiko Takahashi strikes again! This was her first work to receive an anime adaptation and considering Rumiko was still testing things out that she would nail on subsequent works, it has to be said Urusei Yatsura is pretty darn good. It's a silly comedy about a lecherous idiot and an attractive biniki wearing alien. Urusei Yatsura is one of the most influential anime ever made, it's an episodic comedy but it's a enjoyable watch and it has that great 80's feel.
+Wolf's Rain
+83. Wolf's Rain (2003–2004)
+
+TV-14 | 701 min | Action, Sci-Fi, Animation
+8.1
+Rate
+
+In a post-apocalyptic future where humans live in domed cities surrounded by wasteland, wolves are assumed to be two hundred years extinct.
+
+Stars: Darren Pleavin, Kenta Miyake, Akio Suyama, Crispin Freeman
+
+Votes: 6,426
+
+Wolf's Rain = Another one of those anime that divides the viewers into two camps, you either love or hate it, in effort for objectivity I'm taking a stance of indifference. Certainly it has a great soundtrack and a very unique story.There was far too many recaps considering how short the series is and the ending left a little to be desired in my opinion. A definite work of art and worth watching at least once.
+Fist of the North Star
+84. Fist of the North Star (1984–1988)
+
+TV-14 | 25 min | Animation, Action, Adventure
+8.3
+Rate
+
+In the year 199X, human civilization has been all but destroyed by a nuclear holocaust. In an age where the strong rule over the weak, the survivors of the fallout struggle over the ... See full summary »
+
+Stars: Akira Kamiya, Shigeru Chiba, Teiyû Ichiryûsai, Tomiko Suzuki
+
+Votes: 2,060
+
+Fist Of The North Star= Everything Dragonball wishes it was, FOTNS summed up is an epic, exceptionally violent battle shounen. It features characters heads exploding and people being torn apart. Also unlike DB and DBZ when characters die, they stay dead! Which is a big plus. It's unrefined, action entertainment at its peak. Few long running anime have the balls to kill off big characters. Recommended to those who have the audacity to say DBZ should be on this list, seriously watch Fist Of The North Star, Kenshiro would beat Goku with ease :P
+Seitokai yakuindomo
+85. Seitokai yakuindomo (2010– )
+
+307 min | Animation, Comedy, Drama
+7.2
+Rate
+
+Takatoshi Tsuda joins Ousai Academy, a co-ed high school that until recently had been an all-girl school, where he is asked to join the student council as vice-president and a male representative.
+
+Stars: Shintarô Asanuma, Yôko Hikasa, Satomi Sato, Sayuri Yahagi
+
+Votes: 367
+
+Similiar to FLCL this anime could be described as hilarious randomness. I found myself often laughing out loud to this anime. It has so many good episodes filled with hilarious moments. It draws epic humour from some inappropriate situations. I think it's an underrated school life comedy. One of better recent gems that has slipped under the radar.
+Ef: A Tale of Memories.
+86. Ef: A Tale of Memories. (2007)
+
+TV-MA | Animation, Comedy, Drama
+7.6
+Rate
+
+A story of love, heartbreak and youth, as the stories of 6 different characters, which seem initially unrelated, begin to intertwine.
+
+Stars: Natsumi Yanase, Hiroko Taguchi, Junko Okada, Hiro Shimono
+
+Votes: 613
+
+Over the course of its 12 episodes this romance series manages to keep our interest as separate stories intertwine while it manages to avoid most cliches of the genre. Personally it's a mixed bag for me, while I enjoyed one storyline, the other bored me. I enjoyed some characters and others felt like deadweight. However this unconventional romance anime manages to make it on this list through its unique approach and solid visuals.
+Trigun
+87. Trigun (1998)
+
+TV-14 | 24 min | Animation, Action, Comedy
+8.3
+Rate
+
+Vash the Stampede is the most infamous outlaw on the planet Gunsmoke and with a 60 billion double dollar price on his head the most sought after!
+
+Stars: Masaya Onosaka, Hiromi Tsuru, Satsuki Yukino, Johnny Yong Bosch
+
+Votes: 16,439
+
+Some people love Trigun, I would have too if the show hadn't done a complete 180 midway through. It started off as a light comedy/action anime, where Vash was the focus and comedic relief. Then around half way through the show they switched the tone, tried to make it serious and in my opinion it didn't work. I've always felt the ending to be bitterly disappointing however this is just my opinion. Watch this for Vash, for the comedy, for that western/six shooter feel.
+Haibane renmei
+88. Haibane renmei (2002– )
+
+TV-PG | 25 min | Animation, Drama, Fantasy
+8.2
+Rate
+
+A young girl is reborn as an angel-like creature called a haibane, with no memory of who she once was.
+
+Stars: Ryô Hirohashi, Junko Noda, Eri Miyajima, Fumiko Orikasa
+
+Votes: 2,708
+
+A really curious anime, it's not easy to decipher what it's actually about, I believe that it is one of those anime that encourages discussion about the meaning of life.
+It does raise some really fascinating questions about death and what comes after, it's executed in a slow paced style. I'd recommend this anime to fans of Mushi-shi.
+Toradora!
+89. Toradora! (2008–2011)
+
+TV-14 | 24 min | Animation, Comedy, Drama
+8.2
+Rate
+
+Ryuji Takasu lives in a falling down house with his mother, and although being a nice guy is cursed with the evil look of his father causing people to avoid him. Taiga Aisaka is a tiny,self... See full summary »
+
+Stars: Rie Kugimiya, Junji Majima, Yui Horie, Hirofumi Nojima
+
+Votes: 5,702
+
+It's one of the famous school set comedies in recent years, Toradora! just about deserves its place on this list. I can't exactly pinpoint why but I couldn't become emotionally attached to any of the characters, I found it as an anime to be wholly cliched and stereotypical, it's for these reasons that I found it only to be an okay anime.
+I'm sure many people will adore Toradora! and I can appreciate that, don't let my opinion colour how you view this work. It definitely has merit, I just feel it could have been better.
+Kaleido Star
+90. Kaleido Star (2003– )
+
+TV-PG | 23 min | Animation, Comedy, Drama
+7.8
+Rate
+
+Sora, a young girl from Japan, comes to America in search of her dream. She wants, with all her heart, to be a member of the famous Kaleido Stage, a combination of musicals, acrobatics and ... See full summary »
+
+Stars: Jason Douglas, Cynthia Martinez, Kira Vincent-Davis, Ryô Hirohashi
+
+Votes: 578
+
+Girly anime at its best xD. Okay between all the graphic violence and science fiction it's okay to indulge yourself in something a little less intense. 
+Kaleido Star tells its story in a formulaic and slow paced method but this isn't a drawback as the sweet tale about a girl trying to realise her dream compliments the measured approach. It has some very sincere characters, uplifting moments, gorgeous visuals and it exudes a warm feeling.
+Blood+
+91. Blood+ (2005–2006)
+
+TV-MA | Animation, Action, Adventure
+7.7
+Rate
+
+In present day Okinawa, a young amnesiac girl named Saya combats vicious, shape-shifting vampires. Her adoptive family and friends help her track down their source and uncover her past.
+
+Stars: Eri Kitamura, Katsuyuki Konishi, Hiroyuki Yoshino, Akiko Yajima
+
+Votes: 3,891
+
+This is an anime for fans of the supernatural genre. It's one of those anime that has a teenage girl fighting the powers of darkness. Personally I've never understood why it has to be a schoolgirl facing demons/monsters, I guess people like to see girls in uniform acting all badass. This isn't one of my preferred genre but it has quality animation. If you're a fan of vampires or schoolgirls facing life/death situations check this out.
+Golden Boy
+92. Golden Boy (1995– )
+
+Not Rated | 165 min | Animation, Comedy
+8.1
+Rate
+
+Golden Boy is the story of Kintaro Oe, a twenty-five-year-old in pursuit of life's lessons. A brilliant student, he dropped out of Tokyo Universiy's law program because he had had mastered ... See full summary »
+
+Stars: Doug Smith, Matt Greenfield, Mitsuo Iwata, Gorô Naya
+
+Votes: 3,306
+
+It's a 6 episode OVA series. This anime is all about perverted comedy. I'm not really sure how to elaborate further, there's not a whole lot to be said, it's a guys comedy about a college drop out who has a high sex drive and overactive imagination. I struggled on whether or not to include this, I mean there's not much in the way of a plot or even a solid cast of characters. However the objective of a comedy is to make the viewer laugh, in this respect Golden Boy was successful for me, I did laugh and that's why it's included on the list.
+Recommended to fans of GTO: Great Teacher Onizuka.
+JoJo's Bizarre Adventure
+93. JoJo's Bizarre Adventure (2012– )
+
+TV-MA | Animation, Action, Adventure
+8.3
+Rate
+
+The story of the Joestar family, who are possessed with intense psychic strength, and the adventures each member encounters throughout their lives.
+
+Stars: Daisuke Ono, Unshô Ishizuka, Matthew Mercer, Tôru Ohkawa
+
+Votes: 2,595
+
+Over the top action and cheese that actually works. Seriously it's an anime where pure outrageous actions and words reign supreme, it's like the producers bottled "Anchorman: The Legend of Ron Burgundy" and then turned it into this anime.
+It's an action, adventure, supernatural series that isn't easy to describe, especially when the plot is almost an irrelevance. I recommend this to people who like action that can never be too big and words that can never be too loud.
+The Melancholy of Haruhi Suzumiya
+94. The Melancholy of Haruhi Suzumiya (2006–2009)
+
+TV-14 | 24 min | Animation, Comedy, Sci-Fi
+7.9
+Rate
+
+The crazy adventures of the SOS Brigade, led by the insane but charismatic Haruhi.
+
+Stars: Tomokazu Sugita, Aya Hirano, Minori Chihara, Yûko Gotô
+
+Votes: 6,363
+
+Slice of life anime as you've never experienced it, this anime enjoyed a great deal of success and acclaim upon its initial release, personally I've never been quiet as fond of it as others have been.
+The fact the episodes aired out of order still bothers me, because although generally episodic there's enough in this series for me to suggest that the best viewing method is chronologically.
+I'm basing the inclusion of this anime on the original 14 episode series, before the staff decided to cash in and dilute the quality by making an abundance more of Haruhi, you can have too much of a good thing.
+I've said enough, anybody with a mild interest in anime knows all about this series, I'm sure you've heard of it, it's a school set, comedy/mystery/slice of life anime.
+XXXHOLiC
+95. XXXHOLiC (2005– )
+
+TV-PG | Animation, Comedy, Drama
+7.8
+Rate
+
+Kimihiro Watanuki, a high-schooler, is troubled by monsters and spirits who are magically attracted to him. However, nobody else can see them but him. One day, Watanuki stumbles into a shop... See full summary »
+
+Stars: Sayaka Ôhara, Jun Fukuyama, Kazuya Nakai, Shizuka Itô
+
+Votes: 1,341
+
+I almost didn't include this anime because the themes it explores are far better done in two similar anime above, Mushi-shi and Natsume Yuujinchou. However I've come to realise xxxHOLic is a good series in its own right. 
+It's once again a story about a guy that can see spirits etc that are invisible to most people, while it never manages to pull off the profound messages or stunning visuals of the previously mentioned series, xxxHOLiC does achieve a large degree of success in tackling those aspects. Something xxxHOLiC did was bring more humour to the table than the other anime, that was most welcomed.
+Recommended to fans of Mushi-shi and Natsume Yuujinchou, just don't expect the same exceptional level on visuals.
+Nodame kantâbire
+96. Nodame kantâbire (2007– )
+
+25 min | Animation, Comedy, Music
+8.2
+Rate
+
+Chiaki is a first class musician whose dream is to play among the elites in Europe.He is an infamous perfectionist, not only is he highly critical of himself, but of others as well. But his... See full summary »
+
+Stars: Yoshinori Fujita, Shinji Kawada, Sanae Kobayashi, Masaya Matsukaze
+
+Votes: 755
+
+Nodame Cantabile= Classical music, romance and comedy what more could you want. If I'm honest the story and tone are light, no question the biggest draw of this anime is the music. If you're a fan of classical music you'll adore this anime, there was pieces from Beethoven, Mozart, Rachmaninov, Liszt and lots of other famous composers. The comedy works most of the time and the romance feels sincere, this anime has a lot going for it, it's nothing groundbreaking but certainly a solid series worth watching once. Highly recommended to fans of classical music. ”
+Crest of the Stars
+97. Crest of the Stars (1999– )
+
+Animation, Drama, Sci-Fi
+7.8
+Rate
+
+Jinto is a polite young man whose world was overrun by the biggest empire in the galaxy canned the Abh Empire. He meets the lovely Lafiel who he befriends.
+
+Stars: Yuka Imai, Ayako Kawasumi, Takako Fuji, Desiree Yow
+
+Votes: 431
+
+Crest of the Stars is a decent sci-fi anime, unlike other anime far less focus is put on action and more on drama/politics/romance. There's action here but I must stress there is no mecha, so if you're not a fan of giant fighting robots then rejoice, this is a space set anime with no giant robots in sight. 
+This anime is rather slow paced so be sure to watch the subsequent seasons (titled Banner of the Stars) if you want to fully appreciate this work.
+Clannad
+98. Clannad (2007–2008)
+
+TV-PG | 30 min | Animation, Comedy, Drama
+8
+Rate
+
+A high school student who cares little about school or others meets a lonely girl who had to repeat a year while all her friends finished high school. He decides to hang out with her and soon meets more friendly students.
+
+Stars: Yûichi Nakamura, Mai Nakahara, David Matranga, Luci Christian
+
+Votes: 5,805
+
+I can't deny how successful Clannad has become even if I feel all the praise it gets is largely unjustified. I say this because season 1 of Clannad is nothing more than a very average, very generic school life/drama. It's season 2 where it picks up, Clannad: After Story. I personally don't believe it was anything spectacular and the first season is undeniably mediocre. However Clannad over the course of its two seasons had an abundance of drama, sadness and joy. It was something of an emotional roller coaster and for that reason it's included on this list.
+Texhnolyze
+99. Texhnolyze (2003– )
+
+TV-MA | Animation, Drama, Sci-Fi
+7.8
+Rate
+
+In a man-made underground society, descendants of a banished generation vie for control of the crumbling city of Lux. Ichise, an orphan turned prize fighter, loses a leg and an arm to ... See full summary »
+
+Stars: Justin Gross, Satoshi Haga, Shizuka Itô, Carrie Savage
+
+Votes: 1,900
+
+After much deliberation I decided to include this title, I struggled with this because while Texhnolyze is certainly an interesting piece of work it's far from entertaining. The story tells the tale of a boxer who lives in an underground society, he becomes the guinea pig of a mad doctor who replaces some of his limbs with artificial appendages called Texhnolyze. This is one of the most bleak and depressing anime I've ever seen, it's also so unique that it appeals very much to a minority. To give you an example some 17 minutes pass in the first episode before a single word is spoken. To complete Texholyze you will require the patience of a saint, the stomach of a goat and the mind of a brilliant lunatic. It's a mind bending anime that I managed to appreciate. Highly recommended to fans of Serial Experiments Lain.
+The Tatami Galaxy
+100. The Tatami Galaxy (2010)
+
+TV-14 | Animation, Comedy, Drama
+8.4
+Rate
+
+When a nameless student at Kyoto University encounters a demigod one night, he asks to relive the past three years in order to win the heart of Ms. Akashi, the object of his affection.
+
+Stars: Shintarô Asanuma, Keiji Fujiwara, Yuki Kaida, Rin Mizuhara
+
+Votes: 1,826 
